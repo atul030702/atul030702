@@ -1,17 +1,19 @@
-# 👨‍💻 Atul | Frontend Developer
+# Atul | Fullstack Developer
 
-> Bridging clean code with real-world impact.
+> I specialize in the **React/Next.js** ecosystem and I'm currently expanding into backend programming with Go.
+
+---
 
 ```js
-const stack = ["React", "Next.js", "Tailwind", "JavaScript", "Node.js"];
-const interests = ["DSA in JS", "AI x Web", "Chess"];
-const currentlyBuilding = ["NeuNote", "text-to-2d"];
+const stack = ["React", "Next.js", "Tailwind", "JavaScript", "Node.js", "Go", "AWS", "Docker"];
+const interests = ["DSA", "AI & Web", "Chess", "Fighter Jets"];
+const currentlyBuilding = ["Monkeys"];
 ```
-🧠 Solving problems one commit at a time.  
-🌐 Turning ideas into interactive, accessible web experiences.  
-📍 Based in India | Available for collaboration and coffee ☕.  
-🛠️ Building projects that *almost* break the internet, then fixing them with `console.log()` and masala-chai 🍵.  
-🎯 Balancing AI experiments, frontend bugs, and existential thoughts on semicolons.  
+
+- Solving problems one commit at a time.  
+- Turning ideas into interactive, accessible web experiences.
+- Building projects that *almost* break the internet, then fixing them with `console.log()` and masala-chai 🍵.
+- Balancing AI experiments, frontend bugs, and existential thoughts on semicolons.  
 
 
 ## 📬 Connect with Me
